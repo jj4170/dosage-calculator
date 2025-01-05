@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config>
+        <domain includeSubdomains="true">dev.dermadosecalculator.sunkonnect.in</domain>
+        <pin-set>
+<!--            <pin digest="SHA-256">kcvAvPQj+qTrJDYPR3Xz7Z+c7O0pNLKVx/hM4dOEoB8=</pin>-->
+<!--            <pin digest="SHA-256">BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB=</pin>-->
+            <pin digest="SHA-256">18tkPyr2nckv4fgo0dhAkaUtJ2hu2831xlO2SKhq8dg=</pin>
+            <pin digest="SHA-256">++MBgDH5WGvL9Bcn5Be30cRcL0f5O+NyoXuWtQdX1aI=</pin>
+
+        </pin-set>
+    </domain-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="user"/>
+            <certificates src="system"/>
+        </trust-anchors>
+    </base-config>
+</network-security-config>

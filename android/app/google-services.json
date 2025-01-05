@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "557188482440",
+    "project_id": "eyeplanet-2022",
+    "storage_bucket": "eyeplanet-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557188482440:android:6df1cc51d721c92634263d",
+        "android_client_info": {
+          "package_name": "com.SunPharma.esurgeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557188482440-1q4p97jmq3a9qtu4o3jcab6lhcifiir4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlWJX-qQQI2cskpmbAH6wp6MCeRBe9ZDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557188482440-1q4p97jmq3a9qtu4o3jcab6lhcifiir4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "557188482440-kb2cjfu4e89glt5fcvt50n3nh2f8ag3a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sunpharma.detdostdec23"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557188482440:android:e0090211a5d59b8b34263d",
+        "android_client_info": {
+          "package_name": "com.SunPharma.esurgeapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557188482440-1q4p97jmq3a9qtu4o3jcab6lhcifiir4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlWJX-qQQI2cskpmbAH6wp6MCeRBe9ZDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557188482440-1q4p97jmq3a9qtu4o3jcab6lhcifiir4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "557188482440-kb2cjfu4e89glt5fcvt50n3nh2f8ag3a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sunpharma.detdostdec23"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557188482440:android:b99de40ec4ecb33b34263d",
+        "android_client_info": {
+          "package_name": "com.sunpharma.detdostdec23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557188482440-1q4p97jmq3a9qtu4o3jcab6lhcifiir4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlWJX-qQQI2cskpmbAH6wp6MCeRBe9ZDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557188482440-1q4p97jmq3a9qtu4o3jcab6lhcifiir4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "557188482440-kb2cjfu4e89glt5fcvt50n3nh2f8ag3a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sunpharma.detdostdec23"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557188482440:android:eea0e714e11289d134263d",
+        "android_client_info": {
+          "package_name": "com.sunpharma.dosecalculatordec22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557188482440-1q4p97jmq3a9qtu4o3jcab6lhcifiir4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlWJX-qQQI2cskpmbAH6wp6MCeRBe9ZDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557188482440-1q4p97jmq3a9qtu4o3jcab6lhcifiir4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "557188482440-kb2cjfu4e89glt5fcvt50n3nh2f8ag3a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sunpharma.detdostdec23"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557188482440:android:80228a6de382a0bf34263d",
+        "android_client_info": {
+          "package_name": "com.sunpharma.eyeplanet2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557188482440-1q4p97jmq3a9qtu4o3jcab6lhcifiir4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlWJX-qQQI2cskpmbAH6wp6MCeRBe9ZDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557188482440-1q4p97jmq3a9qtu4o3jcab6lhcifiir4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "557188482440-kb2cjfu4e89glt5fcvt50n3nh2f8ag3a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sunpharma.detdostdec23"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
