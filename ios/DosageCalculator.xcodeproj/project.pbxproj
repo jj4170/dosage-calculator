@@ -8,12 +8,51 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* DosageCalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* DosageCalculatorTests.m */; };
+		0AD9845533808336518E4E22 /* libPods-DosageCalculator-DosageCalculatorTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4EE3A10BF73A3E8C7BEA3055 /* libPods-DosageCalculator-DosageCalculatorTests.a */; };
 		0B11D8AD0B2F41CBB2A469EA /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9C9339DBC7124F79858FD559 /* Poppins-Regular.ttf */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		27D27CC3DFE4230A212FA111 /* libPods-DosageCalculator.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FCA9318C084DF6BE9481045C /* libPods-DosageCalculator.a */; };
-		2898C599744FC763D553034A /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 3DD1F8202D2195280047A667 /* PrivacyInfo.xcprivacy */; };
 		3B15B5F3DCD948BA9E6205E2 /* Poppins-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 01D4F17B98874D61A01E2512 /* Poppins-MediumItalic.ttf */; };
+		3D87F5622D2ACD1D00F3FC10 /* back-icon-mask.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F52B2D2ACD1D00F3FC10 /* back-icon-mask.png */; };
+		3D87F5632D2ACD1D00F3FC10 /* back-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F52C2D2ACD1D00F3FC10 /* back-icon.png */; };
+		3D87F5642D2ACD1D00F3FC10 /* back-icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F52D2D2ACD1D00F3FC10 /* back-icon@2x.png */; };
+		3D87F5652D2ACD1D00F3FC10 /* back-icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F52E2D2ACD1D00F3FC10 /* back-icon@3x.png */; };
+		3D87F5662D2ACD1D00F3FC10 /* next@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5332D2ACD1D00F3FC10 /* next@2x.png */; };
+		3D87F5672D2ACD1D00F3FC10 /* previous@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5342D2ACD1D00F3FC10 /* previous@2x.png */; };
+		3D87F5682D2ACD1D00F3FC10 /* down.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5372D2ACD1D00F3FC10 /* down.png */; };
+		3D87F5692D2ACD1D00F3FC10 /* down@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5382D2ACD1D00F3FC10 /* down@2x.png */; };
+		3D87F56A2D2ACD1D00F3FC10 /* down@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5392D2ACD1D00F3FC10 /* down@3x.png */; };
+		3D87F56B2D2ACD1D00F3FC10 /* up.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F53A2D2ACD1D00F3FC10 /* up.png */; };
+		3D87F56C2D2ACD1D00F3FC10 /* up@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F53B2D2ACD1D00F3FC10 /* up@2x.png */; };
+		3D87F56D2D2ACD1D00F3FC10 /* up@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F53C2D2ACD1D00F3FC10 /* up@3x.png */; };
+		3D87F56E2D2ACD1D00F3FC10 /* sun_loader.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5412D2ACD1D00F3FC10 /* sun_loader.gif */; };
+		3D87F56F2D2ACD1D00F3FC10 /* AddUser.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5432D2ACD1D00F3FC10 /* AddUser.png */; };
+		3D87F5702D2ACD1D00F3FC10 /* Back.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5442D2ACD1D00F3FC10 /* Back.png */; };
+		3D87F5712D2ACD1D00F3FC10 /* CalculatorWhite.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5452D2ACD1D00F3FC10 /* CalculatorWhite.png */; };
+		3D87F5722D2ACD1D00F3FC10 /* CalendarMainColor.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5462D2ACD1D00F3FC10 /* CalendarMainColor.png */; };
+		3D87F5732D2ACD1D00F3FC10 /* Edit.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5472D2ACD1D00F3FC10 /* Edit.png */; };
+		3D87F5742D2ACD1D00F3FC10 /* EmailImg.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5482D2ACD1D00F3FC10 /* EmailImg.png */; };
+		3D87F5752D2ACD1D00F3FC10 /* EyeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5492D2ACD1D00F3FC10 /* EyeIcon.png */; };
+		3D87F5762D2ACD1D00F3FC10 /* EyeSlash.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F54A2D2ACD1D00F3FC10 /* EyeSlash.png */; };
+		3D87F5772D2ACD1D00F3FC10 /* Home.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F54B2D2ACD1D00F3FC10 /* Home.png */; };
+		3D87F5782D2ACD1D00F3FC10 /* HomeActive.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F54C2D2ACD1D00F3FC10 /* HomeActive.png */; };
+		3D87F5792D2ACD1D00F3FC10 /* Medicine.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F54D2D2ACD1D00F3FC10 /* Medicine.png */; };
+		3D87F57A2D2ACD1D00F3FC10 /* MedicineIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F54E2D2ACD1D00F3FC10 /* MedicineIcon.png */; };
+		3D87F57B2D2ACD1D00F3FC10 /* OvelShape.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F54F2D2ACD1D00F3FC10 /* OvelShape.png */; };
+		3D87F57C2D2ACD1D00F3FC10 /* PasswordImg.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5502D2ACD1D00F3FC10 /* PasswordImg.png */; };
+		3D87F57D2D2ACD1D00F3FC10 /* UpdownImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5512D2ACD1D00F3FC10 /* UpdownImage.png */; };
+		3D87F57E2D2ACD1D00F3FC10 /* User.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5522D2ACD1D00F3FC10 /* User.png */; };
+		3D87F57F2D2ACD1D00F3FC10 /* UserGray.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5532D2ACD1D00F3FC10 /* UserGray.png */; };
+		3D87F5802D2ACD1D00F3FC10 /* UserLightMain.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5542D2ACD1D00F3FC10 /* UserLightMain.png */; };
+		3D87F5812D2ACD1D00F3FC10 /* Weight.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5552D2ACD1D00F3FC10 /* Weight.png */; };
+		3D87F5822D2ACD1D00F3FC10 /* add.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5572D2ACD1D00F3FC10 /* add.png */; };
+		3D87F5832D2ACD1D00F3FC10 /* delete.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5582D2ACD1D00F3FC10 /* delete.png */; };
+		3D87F5842D2ACD1D00F3FC10 /* emailSentRight.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F5592D2ACD1D00F3FC10 /* emailSentRight.png */; };
+		3D87F5852D2ACD1D00F3FC10 /* filledDownArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F55A2D2ACD1D00F3FC10 /* filledDownArrow.png */; };
+		3D87F5862D2ACD1D00F3FC10 /* LoginBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F55B2D2ACD1D00F3FC10 /* LoginBackground.png */; };
+		3D87F5872D2ACD1D00F3FC10 /* mainDown.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F55C2D2ACD1D00F3FC10 /* mainDown.png */; };
+		3D87F5882D2ACD1D00F3FC10 /* noData.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F55D2D2ACD1D00F3FC10 /* noData.png */; };
+		3D87F5892D2ACD1D00F3FC10 /* SunPharmaLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D87F55E2D2ACD1D00F3FC10 /* SunPharmaLogo.png */; };
 		3D9629EA9CA94110B1B15867 /* Poppins-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4E426621FA244CC68337FE95 /* Poppins-SemiBoldItalic.ttf */; };
 		3DD9966B2D21C38C00DC729E /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 3DD9966A2D21C38C00DC729E /* AppDelegate.mm */; };
 		4F1D35C60F254A99B33EC602 /* Poppins-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FEDA59F8E84143C9A6EFD3E1 /* Poppins-BlackItalic.ttf */; };
@@ -23,7 +62,6 @@
 		9AE63CE33FBF4703ABB23E5E /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 835E9794933848BA9C19570F /* Poppins-Bold.ttf */; };
 		A2ED6277CE5549D29E737C07 /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F3966E48B5724C1DA508A9E0 /* Poppins-ExtraBold.ttf */; };
 		A74D9EE27BEC4AE497B4692A /* Poppins-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A3D71476CEB24A9F879D9B61 /* Poppins-ThinItalic.ttf */; };
-		A7D452F36AC014FA4A19E728 /* libPods-DosageCalculator-DosageCalculatorTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F2267F948CF375D4C12755E /* libPods-DosageCalculator-DosageCalculatorTests.a */; };
 		AF5A2E2855674E56AD5A9201 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AB7A5EDEAE224868B65C5C4F /* Poppins-SemiBold.ttf */; };
 		B1A931E2212D4D5D8814753F /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CA5BE98D530A4E25AD82CF5F /* Poppins-Black.ttf */; };
 		B75FC56450AB49249FD39FA3 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4E30956B138948D6954F2D68 /* Poppins-Light.ttf */; };
@@ -34,7 +72,9 @@
 		C804FAA52EBB469598697E20 /* Poppins-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D2ACD3BDFA34CF3BEC3C529 /* Poppins-ExtraBoldItalic.ttf */; };
 		CAF84A8E45B64A7DA7609EA8 /* Poppins-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FC87BF0FDAB34C82A9F94326 /* Poppins-LightItalic.ttf */; };
 		DD1FA16295044D619ED0CC43 /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 379E255B87AD4BFE896376EC /* Poppins-Thin.ttf */; };
+		E3889636C64DAA218ACFCDB2 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 3DD1F8202D2195280047A667 /* PrivacyInfo.xcprivacy */; };
 		EA2C59652B1343E0A2461B3F /* Poppins-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CAB62D8ADC4649DFB92CA1EE /* Poppins-ExtraLight.ttf */; };
+		FE61C48C00D18885D45173B9 /* libPods-DosageCalculator.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2DD5B99923376EC4C60E8A08 /* libPods-DosageCalculator.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,34 +97,74 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = DosageCalculator/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = DosageCalculator/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = DosageCalculator/main.m; sourceTree = "<group>"; };
+		1D4265E7BC2FF29EEE272F7A /* Pods-DosageCalculator-DosageCalculatorTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DosageCalculator-DosageCalculatorTests.debug.xcconfig"; path = "Target Support Files/Pods-DosageCalculator-DosageCalculatorTests/Pods-DosageCalculator-DosageCalculatorTests.debug.xcconfig"; sourceTree = "<group>"; };
 		29D16C6923E948E8BA1E3D50 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Medium.ttf"; path = "../assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; };
-		2CB05A93943A3F2D33C74AF4 /* Pods-DosageCalculator-DosageCalculatorTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DosageCalculator-DosageCalculatorTests.debug.xcconfig"; path = "Target Support Files/Pods-DosageCalculator-DosageCalculatorTests/Pods-DosageCalculator-DosageCalculatorTests.debug.xcconfig"; sourceTree = "<group>"; };
 		2D2ACD3BDFA34CF3BEC3C529 /* Poppins-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraBoldItalic.ttf"; path = "../assets/fonts/Poppins-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		2DD5B99923376EC4C60E8A08 /* libPods-DosageCalculator.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DosageCalculator.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		379E255B87AD4BFE896376EC /* Poppins-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Thin.ttf"; path = "../assets/fonts/Poppins-Thin.ttf"; sourceTree = "<group>"; };
 		3B97C3E7B8B84EB5B1A6900C /* Poppins-ExtraLightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraLightItalic.ttf"; path = "../assets/fonts/Poppins-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		3D87F52B2D2ACD1D00F3FC10 /* back-icon-mask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-icon-mask.png"; sourceTree = "<group>"; };
+		3D87F52C2D2ACD1D00F3FC10 /* back-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-icon.png"; sourceTree = "<group>"; };
+		3D87F52D2D2ACD1D00F3FC10 /* back-icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-icon@2x.png"; sourceTree = "<group>"; };
+		3D87F52E2D2ACD1D00F3FC10 /* back-icon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "back-icon@3x.png"; sourceTree = "<group>"; };
+		3D87F5332D2ACD1D00F3FC10 /* next@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "next@2x.png"; sourceTree = "<group>"; };
+		3D87F5342D2ACD1D00F3FC10 /* previous@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "previous@2x.png"; sourceTree = "<group>"; };
+		3D87F5372D2ACD1D00F3FC10 /* down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = down.png; sourceTree = "<group>"; };
+		3D87F5382D2ACD1D00F3FC10 /* down@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "down@2x.png"; sourceTree = "<group>"; };
+		3D87F5392D2ACD1D00F3FC10 /* down@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "down@3x.png"; sourceTree = "<group>"; };
+		3D87F53A2D2ACD1D00F3FC10 /* up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = up.png; sourceTree = "<group>"; };
+		3D87F53B2D2ACD1D00F3FC10 /* up@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "up@2x.png"; sourceTree = "<group>"; };
+		3D87F53C2D2ACD1D00F3FC10 /* up@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "up@3x.png"; sourceTree = "<group>"; };
+		3D87F5412D2ACD1D00F3FC10 /* sun_loader.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sun_loader.gif; sourceTree = "<group>"; };
+		3D87F5432D2ACD1D00F3FC10 /* AddUser.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AddUser.png; sourceTree = "<group>"; };
+		3D87F5442D2ACD1D00F3FC10 /* Back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Back.png; sourceTree = "<group>"; };
+		3D87F5452D2ACD1D00F3FC10 /* CalculatorWhite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CalculatorWhite.png; sourceTree = "<group>"; };
+		3D87F5462D2ACD1D00F3FC10 /* CalendarMainColor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CalendarMainColor.png; sourceTree = "<group>"; };
+		3D87F5472D2ACD1D00F3FC10 /* Edit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Edit.png; sourceTree = "<group>"; };
+		3D87F5482D2ACD1D00F3FC10 /* EmailImg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = EmailImg.png; sourceTree = "<group>"; };
+		3D87F5492D2ACD1D00F3FC10 /* EyeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = EyeIcon.png; sourceTree = "<group>"; };
+		3D87F54A2D2ACD1D00F3FC10 /* EyeSlash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = EyeSlash.png; sourceTree = "<group>"; };
+		3D87F54B2D2ACD1D00F3FC10 /* Home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Home.png; sourceTree = "<group>"; };
+		3D87F54C2D2ACD1D00F3FC10 /* HomeActive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = HomeActive.png; sourceTree = "<group>"; };
+		3D87F54D2D2ACD1D00F3FC10 /* Medicine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Medicine.png; sourceTree = "<group>"; };
+		3D87F54E2D2ACD1D00F3FC10 /* MedicineIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MedicineIcon.png; sourceTree = "<group>"; };
+		3D87F54F2D2ACD1D00F3FC10 /* OvelShape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = OvelShape.png; sourceTree = "<group>"; };
+		3D87F5502D2ACD1D00F3FC10 /* PasswordImg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PasswordImg.png; sourceTree = "<group>"; };
+		3D87F5512D2ACD1D00F3FC10 /* UpdownImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UpdownImage.png; sourceTree = "<group>"; };
+		3D87F5522D2ACD1D00F3FC10 /* User.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = User.png; sourceTree = "<group>"; };
+		3D87F5532D2ACD1D00F3FC10 /* UserGray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UserGray.png; sourceTree = "<group>"; };
+		3D87F5542D2ACD1D00F3FC10 /* UserLightMain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UserLightMain.png; sourceTree = "<group>"; };
+		3D87F5552D2ACD1D00F3FC10 /* Weight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Weight.png; sourceTree = "<group>"; };
+		3D87F5572D2ACD1D00F3FC10 /* add.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = add.png; sourceTree = "<group>"; };
+		3D87F5582D2ACD1D00F3FC10 /* delete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = delete.png; sourceTree = "<group>"; };
+		3D87F5592D2ACD1D00F3FC10 /* emailSentRight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = emailSentRight.png; sourceTree = "<group>"; };
+		3D87F55A2D2ACD1D00F3FC10 /* filledDownArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = filledDownArrow.png; sourceTree = "<group>"; };
+		3D87F55B2D2ACD1D00F3FC10 /* LoginBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LoginBackground.png; sourceTree = "<group>"; };
+		3D87F55C2D2ACD1D00F3FC10 /* mainDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mainDown.png; sourceTree = "<group>"; };
+		3D87F55D2D2ACD1D00F3FC10 /* noData.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = noData.png; sourceTree = "<group>"; };
+		3D87F55E2D2ACD1D00F3FC10 /* SunPharmaLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SunPharmaLogo.png; sourceTree = "<group>"; };
 		3DD1F8202D2195280047A667 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		3DD9966A2D21C38C00DC729E /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = DosageCalculator/AppDelegate.mm; sourceTree = "<group>"; };
 		4E30956B138948D6954F2D68 /* Poppins-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Light.ttf"; path = "../assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; };
 		4E426621FA244CC68337FE95 /* Poppins-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBoldItalic.ttf"; path = "../assets/fonts/Poppins-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
-		6F2267F948CF375D4C12755E /* libPods-DosageCalculator-DosageCalculatorTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DosageCalculator-DosageCalculatorTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4EE3A10BF73A3E8C7BEA3055 /* libPods-DosageCalculator-DosageCalculatorTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DosageCalculator-DosageCalculatorTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = DosageCalculator/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		835E9794933848BA9C19570F /* Poppins-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Bold.ttf"; path = "../assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; };
 		9C9339DBC7124F79858FD559 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Regular.ttf"; path = "../assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
 		A3D71476CEB24A9F879D9B61 /* Poppins-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ThinItalic.ttf"; path = "../assets/fonts/Poppins-ThinItalic.ttf"; sourceTree = "<group>"; };
 		AB7A5EDEAE224868B65C5C4F /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBold.ttf"; path = "../assets/fonts/Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
-		B72956CAE053020622F7A802 /* Pods-DosageCalculator-DosageCalculatorTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DosageCalculator-DosageCalculatorTests.release.xcconfig"; path = "Target Support Files/Pods-DosageCalculator-DosageCalculatorTests/Pods-DosageCalculator-DosageCalculatorTests.release.xcconfig"; sourceTree = "<group>"; };
 		BE9125EF2913CFB40029E939 /* main.jsbundle */ = {isa = PBXFileReference; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
 		BEC8923A291E1EFF00A8F907 /* assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = assets; sourceTree = "<group>"; };
-		C3DCA87E8ABD7BAEAA23843B /* Pods-DosageCalculator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DosageCalculator.debug.xcconfig"; path = "Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator.debug.xcconfig"; sourceTree = "<group>"; };
 		CA5BE98D530A4E25AD82CF5F /* Poppins-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Black.ttf"; path = "../assets/fonts/Poppins-Black.ttf"; sourceTree = "<group>"; };
 		CAB62D8ADC4649DFB92CA1EE /* Poppins-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraLight.ttf"; path = "../assets/fonts/Poppins-ExtraLight.ttf"; sourceTree = "<group>"; };
+		D3EA628AAEDA45CABF5DCEF4 /* Pods-DosageCalculator.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DosageCalculator.release.xcconfig"; path = "Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator.release.xcconfig"; sourceTree = "<group>"; };
+		D6C613A622BA6A375BA07A57 /* Pods-DosageCalculator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DosageCalculator.debug.xcconfig"; path = "Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator.debug.xcconfig"; sourceTree = "<group>"; };
 		D97DAA6CB0B745D197C78433 /* Poppins-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-BoldItalic.ttf"; path = "../assets/fonts/Poppins-BoldItalic.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F3966E48B5724C1DA508A9E0 /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraBold.ttf"; path = "../assets/fonts/Poppins-ExtraBold.ttf"; sourceTree = "<group>"; };
+		F49E4E950AE347E10BD826F8 /* Pods-DosageCalculator-DosageCalculatorTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DosageCalculator-DosageCalculatorTests.release.xcconfig"; path = "Target Support Files/Pods-DosageCalculator-DosageCalculatorTests/Pods-DosageCalculator-DosageCalculatorTests.release.xcconfig"; sourceTree = "<group>"; };
 		F5C044F774E64E2AABC00CF4 /* Poppins-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Italic.ttf"; path = "../assets/fonts/Poppins-Italic.ttf"; sourceTree = "<group>"; };
 		FC87BF0FDAB34C82A9F94326 /* Poppins-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-LightItalic.ttf"; path = "../assets/fonts/Poppins-LightItalic.ttf"; sourceTree = "<group>"; };
-		FCA9318C084DF6BE9481045C /* libPods-DosageCalculator.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DosageCalculator.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FCE34DE9EEA852D334ECFDAF /* Pods-DosageCalculator.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DosageCalculator.release.xcconfig"; path = "Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator.release.xcconfig"; sourceTree = "<group>"; };
 		FEDA59F8E84143C9A6EFD3E1 /* Poppins-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-BlackItalic.ttf"; path = "../assets/fonts/Poppins-BlackItalic.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -93,7 +173,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A7D452F36AC014FA4A19E728 /* libPods-DosageCalculator-DosageCalculatorTests.a in Frameworks */,
+				0AD9845533808336518E4E22 /* libPods-DosageCalculator-DosageCalculatorTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -101,7 +181,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27D27CC3DFE4230A212FA111 /* libPods-DosageCalculator.a in Frameworks */,
+				FE61C48C00D18885D45173B9 /* libPods-DosageCalculator.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -128,6 +208,7 @@
 		13B07FAE1A68108700A75B9A /* DosageCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				3D87F5612D2ACD1D00F3FC10 /* assets */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				3DD9966A2D21C38C00DC729E /* AppDelegate.mm */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -143,8 +224,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				FCA9318C084DF6BE9481045C /* libPods-DosageCalculator.a */,
-				6F2267F948CF375D4C12755E /* libPods-DosageCalculator-DosageCalculatorTests.a */,
+				2DD5B99923376EC4C60E8A08 /* libPods-DosageCalculator.a */,
+				4EE3A10BF73A3E8C7BEA3055 /* libPods-DosageCalculator-DosageCalculatorTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -152,12 +233,171 @@
 		3A2722455D219E9100D3DE59 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C3DCA87E8ABD7BAEAA23843B /* Pods-DosageCalculator.debug.xcconfig */,
-				FCE34DE9EEA852D334ECFDAF /* Pods-DosageCalculator.release.xcconfig */,
-				2CB05A93943A3F2D33C74AF4 /* Pods-DosageCalculator-DosageCalculatorTests.debug.xcconfig */,
-				B72956CAE053020622F7A802 /* Pods-DosageCalculator-DosageCalculatorTests.release.xcconfig */,
+				D6C613A622BA6A375BA07A57 /* Pods-DosageCalculator.debug.xcconfig */,
+				D3EA628AAEDA45CABF5DCEF4 /* Pods-DosageCalculator.release.xcconfig */,
+				1D4265E7BC2FF29EEE272F7A /* Pods-DosageCalculator-DosageCalculatorTests.debug.xcconfig */,
+				F49E4E950AE347E10BD826F8 /* Pods-DosageCalculator-DosageCalculatorTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		3D87F52F2D2ACD1D00F3FC10 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F52B2D2ACD1D00F3FC10 /* back-icon-mask.png */,
+				3D87F52C2D2ACD1D00F3FC10 /* back-icon.png */,
+				3D87F52D2D2ACD1D00F3FC10 /* back-icon@2x.png */,
+				3D87F52E2D2ACD1D00F3FC10 /* back-icon@3x.png */,
+			);
+			path = assets;
+			sourceTree = "<group>";
+		};
+		3D87F5302D2ACD1D00F3FC10 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F52F2D2ACD1D00F3FC10 /* assets */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		3D87F5312D2ACD1D00F3FC10 /* elements */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F5302D2ACD1D00F3FC10 /* src */,
+			);
+			path = elements;
+			sourceTree = "<group>";
+		};
+		3D87F5322D2ACD1D00F3FC10 /* @react-navigation */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F5312D2ACD1D00F3FC10 /* elements */,
+			);
+			path = "@react-navigation";
+			sourceTree = "<group>";
+		};
+		3D87F5352D2ACD1D00F3FC10 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F5332D2ACD1D00F3FC10 /* next@2x.png */,
+				3D87F5342D2ACD1D00F3FC10 /* previous@2x.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		3D87F5362D2ACD1D00F3FC10 /* calendar */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F5352D2ACD1D00F3FC10 /* img */,
+			);
+			path = calendar;
+			sourceTree = "<group>";
+		};
+		3D87F53D2D2ACD1D00F3FC10 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F5372D2ACD1D00F3FC10 /* down.png */,
+				3D87F5382D2ACD1D00F3FC10 /* down@2x.png */,
+				3D87F5392D2ACD1D00F3FC10 /* down@3x.png */,
+				3D87F53A2D2ACD1D00F3FC10 /* up.png */,
+				3D87F53B2D2ACD1D00F3FC10 /* up@2x.png */,
+				3D87F53C2D2ACD1D00F3FC10 /* up@3x.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		3D87F53E2D2ACD1D00F3FC10 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F5362D2ACD1D00F3FC10 /* calendar */,
+				3D87F53D2D2ACD1D00F3FC10 /* img */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		3D87F53F2D2ACD1D00F3FC10 /* react-native-calendars */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F53E2D2ACD1D00F3FC10 /* src */,
+			);
+			path = "react-native-calendars";
+			sourceTree = "<group>";
+		};
+		3D87F5402D2ACD1D00F3FC10 /* node_modules */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F5322D2ACD1D00F3FC10 /* @react-navigation */,
+				3D87F53F2D2ACD1D00F3FC10 /* react-native-calendars */,
+			);
+			path = node_modules;
+			sourceTree = "<group>";
+		};
+		3D87F5422D2ACD1D00F3FC10 /* GIF */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F5412D2ACD1D00F3FC10 /* sun_loader.gif */,
+			);
+			path = GIF;
+			sourceTree = "<group>";
+		};
+		3D87F5562D2ACD1D00F3FC10 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F5432D2ACD1D00F3FC10 /* AddUser.png */,
+				3D87F5442D2ACD1D00F3FC10 /* Back.png */,
+				3D87F5452D2ACD1D00F3FC10 /* CalculatorWhite.png */,
+				3D87F5462D2ACD1D00F3FC10 /* CalendarMainColor.png */,
+				3D87F5472D2ACD1D00F3FC10 /* Edit.png */,
+				3D87F5482D2ACD1D00F3FC10 /* EmailImg.png */,
+				3D87F5492D2ACD1D00F3FC10 /* EyeIcon.png */,
+				3D87F54A2D2ACD1D00F3FC10 /* EyeSlash.png */,
+				3D87F54B2D2ACD1D00F3FC10 /* Home.png */,
+				3D87F54C2D2ACD1D00F3FC10 /* HomeActive.png */,
+				3D87F54D2D2ACD1D00F3FC10 /* Medicine.png */,
+				3D87F54E2D2ACD1D00F3FC10 /* MedicineIcon.png */,
+				3D87F54F2D2ACD1D00F3FC10 /* OvelShape.png */,
+				3D87F5502D2ACD1D00F3FC10 /* PasswordImg.png */,
+				3D87F5512D2ACD1D00F3FC10 /* UpdownImage.png */,
+				3D87F5522D2ACD1D00F3FC10 /* User.png */,
+				3D87F5532D2ACD1D00F3FC10 /* UserGray.png */,
+				3D87F5542D2ACD1D00F3FC10 /* UserLightMain.png */,
+				3D87F5552D2ACD1D00F3FC10 /* Weight.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		3D87F55F2D2ACD1D00F3FC10 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F5422D2ACD1D00F3FC10 /* GIF */,
+				3D87F5562D2ACD1D00F3FC10 /* img */,
+				3D87F5572D2ACD1D00F3FC10 /* add.png */,
+				3D87F5582D2ACD1D00F3FC10 /* delete.png */,
+				3D87F5592D2ACD1D00F3FC10 /* emailSentRight.png */,
+				3D87F55A2D2ACD1D00F3FC10 /* filledDownArrow.png */,
+				3D87F55B2D2ACD1D00F3FC10 /* LoginBackground.png */,
+				3D87F55C2D2ACD1D00F3FC10 /* mainDown.png */,
+				3D87F55D2D2ACD1D00F3FC10 /* noData.png */,
+				3D87F55E2D2ACD1D00F3FC10 /* SunPharmaLogo.png */,
+			);
+			path = assets;
+			sourceTree = "<group>";
+		};
+		3D87F5602D2ACD1D00F3FC10 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F55F2D2ACD1D00F3FC10 /* assets */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
+		3D87F5612D2ACD1D00F3FC10 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				3D87F5402D2ACD1D00F3FC10 /* node_modules */,
+				3D87F5602D2ACD1D00F3FC10 /* src */,
+			);
+			path = assets;
 			sourceTree = "<group>";
 		};
 		4102DED008524967BDBAEFF8 /* Resources */ = {
@@ -181,17 +421,16 @@
 				4E426621FA244CC68337FE95 /* Poppins-SemiBoldItalic.ttf */,
 				379E255B87AD4BFE896376EC /* Poppins-Thin.ttf */,
 				A3D71476CEB24A9F879D9B61 /* Poppins-ThinItalic.ttf */,
-				2898C599744FC763D553034A /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
-				isa = PBXGroup;
-				children = (
-				);
-				name = Libraries;
-				sourceTree = "<group>";
+			isa = PBXGroup;
+			children = (
+			);
+			name = Libraries;
+			sourceTree = "<group>";
 		};
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
@@ -227,12 +466,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "DosageCalculatorTests" */;
 			buildPhases = (
-				2BE86514B8E8D67D0E8916FE /* [CP] Check Pods Manifest.lock */,
+				782EF9CC5C0442D4919396D2 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				85F503157C2AAB9AD572BDC8 /* [CP] Embed Pods Frameworks */,
-				7DA3236FFA2C4279086DC135 /* [CP] Copy Pods Resources */,
+				98B8A9987D08DCC79BFA7483 /* [CP] Embed Pods Frameworks */,
+				0B0B4350C5B73C9B2989AC11 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -248,14 +487,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "DosageCalculator" */;
 			buildPhases = (
-				A9F62BE32001351E6E06B27B /* [CP] Check Pods Manifest.lock */,
+				42C368169010BA7801A6AEC0 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				6F42EE4950BBC1488104EE8D /* [CP] Embed Pods Frameworks */,
-				3ACEE3883BDA7C2B89BAD95B /* [CP] Copy Pods Resources */,
+				5D5587403B4064AA4B5AEE56 /* [CP] Embed Pods Frameworks */,
+				5A4B5C388C16EEE6D82DB358 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -315,28 +554,68 @@
 			buildActionMask = 2147483647;
 			files = (
 				BEC8923B291E1F0000A8F907 /* assets in Resources */,
+				3D87F5892D2ACD1D00F3FC10 /* SunPharmaLogo.png in Resources */,
+				3D87F5712D2ACD1D00F3FC10 /* CalculatorWhite.png in Resources */,
+				3D87F56A2D2ACD1D00F3FC10 /* down@3x.png in Resources */,
 				BEC89239291E160200A8F907 /* main.jsbundle in Resources */,
+				3D87F57C2D2ACD1D00F3FC10 /* PasswordImg.png in Resources */,
+				3D87F5742D2ACD1D00F3FC10 /* EmailImg.png in Resources */,
+				3D87F5762D2ACD1D00F3FC10 /* EyeSlash.png in Resources */,
+				3D87F56D2D2ACD1D00F3FC10 /* up@3x.png in Resources */,
+				3D87F56C2D2ACD1D00F3FC10 /* up@2x.png in Resources */,
+				3D87F5652D2ACD1D00F3FC10 /* back-icon@3x.png in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				3D87F5862D2ACD1D00F3FC10 /* LoginBackground.png in Resources */,
+				3D87F5882D2ACD1D00F3FC10 /* noData.png in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				3D87F5732D2ACD1D00F3FC10 /* Edit.png in Resources */,
+				3D87F5872D2ACD1D00F3FC10 /* mainDown.png in Resources */,
 				B1A931E2212D4D5D8814753F /* Poppins-Black.ttf in Resources */,
 				4F1D35C60F254A99B33EC602 /* Poppins-BlackItalic.ttf in Resources */,
+				3D87F5702D2ACD1D00F3FC10 /* Back.png in Resources */,
+				3D87F5642D2ACD1D00F3FC10 /* back-icon@2x.png in Resources */,
 				9AE63CE33FBF4703ABB23E5E /* Poppins-Bold.ttf in Resources */,
+				3D87F57E2D2ACD1D00F3FC10 /* User.png in Resources */,
 				C2AAD5847A6E4A4B94628B6F /* Poppins-BoldItalic.ttf in Resources */,
 				A2ED6277CE5549D29E737C07 /* Poppins-ExtraBold.ttf in Resources */,
+				3D87F5852D2ACD1D00F3FC10 /* filledDownArrow.png in Resources */,
+				3D87F5682D2ACD1D00F3FC10 /* down.png in Resources */,
+				3D87F5752D2ACD1D00F3FC10 /* EyeIcon.png in Resources */,
+				3D87F57D2D2ACD1D00F3FC10 /* UpdownImage.png in Resources */,
+				3D87F5672D2ACD1D00F3FC10 /* previous@2x.png in Resources */,
 				C804FAA52EBB469598697E20 /* Poppins-ExtraBoldItalic.ttf in Resources */,
+				3D87F56F2D2ACD1D00F3FC10 /* AddUser.png in Resources */,
+				3D87F5812D2ACD1D00F3FC10 /* Weight.png in Resources */,
 				EA2C59652B1343E0A2461B3F /* Poppins-ExtraLight.ttf in Resources */,
 				52C0366A2DAC4ED3AF2156E5 /* Poppins-ExtraLightItalic.ttf in Resources */,
+				3D87F5722D2ACD1D00F3FC10 /* CalendarMainColor.png in Resources */,
+				3D87F5772D2ACD1D00F3FC10 /* Home.png in Resources */,
 				5A04525811444FE083B6C112 /* Poppins-Italic.ttf in Resources */,
+				3D87F56B2D2ACD1D00F3FC10 /* up.png in Resources */,
+				3D87F5622D2ACD1D00F3FC10 /* back-icon-mask.png in Resources */,
+				3D87F5822D2ACD1D00F3FC10 /* add.png in Resources */,
 				B75FC56450AB49249FD39FA3 /* Poppins-Light.ttf in Resources */,
 				CAF84A8E45B64A7DA7609EA8 /* Poppins-LightItalic.ttf in Resources */,
 				BBDC3E81B47D4131AB9C25BA /* Poppins-Medium.ttf in Resources */,
+				3D87F5782D2ACD1D00F3FC10 /* HomeActive.png in Resources */,
 				3B15B5F3DCD948BA9E6205E2 /* Poppins-MediumItalic.ttf in Resources */,
+				3D87F5842D2ACD1D00F3FC10 /* emailSentRight.png in Resources */,
+				3D87F57B2D2ACD1D00F3FC10 /* OvelShape.png in Resources */,
 				0B11D8AD0B2F41CBB2A469EA /* Poppins-Regular.ttf in Resources */,
+				3D87F5632D2ACD1D00F3FC10 /* back-icon.png in Resources */,
+				3D87F5802D2ACD1D00F3FC10 /* UserLightMain.png in Resources */,
 				AF5A2E2855674E56AD5A9201 /* Poppins-SemiBold.ttf in Resources */,
+				3D87F5792D2ACD1D00F3FC10 /* Medicine.png in Resources */,
+				3D87F5662D2ACD1D00F3FC10 /* next@2x.png in Resources */,
+				3D87F56E2D2ACD1D00F3FC10 /* sun_loader.gif in Resources */,
+				3D87F57A2D2ACD1D00F3FC10 /* MedicineIcon.png in Resources */,
 				3D9629EA9CA94110B1B15867 /* Poppins-SemiBoldItalic.ttf in Resources */,
 				DD1FA16295044D619ED0CC43 /* Poppins-Thin.ttf in Resources */,
+				3D87F5692D2ACD1D00F3FC10 /* down@2x.png in Resources */,
+				3D87F57F2D2ACD1D00F3FC10 /* UserGray.png in Resources */,
+				3D87F5832D2ACD1D00F3FC10 /* delete.png in Resources */,
 				A74D9EE27BEC4AE497B4692A /* Poppins-ThinItalic.ttf in Resources */,
-				2898C599744FC763D553034A /* PrivacyInfo.xcprivacy in Resources */,
+				E3889636C64DAA218ACFCDB2 /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -357,7 +636,80 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
 		};
-		2BE86514B8E8D67D0E8916FE /* [CP] Check Pods Manifest.lock */ = {
+		0B0B4350C5B73C9B2989AC11 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator-DosageCalculatorTests/Pods-DosageCalculator-DosageCalculatorTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator-DosageCalculatorTests/Pods-DosageCalculator-DosageCalculatorTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator-DosageCalculatorTests/Pods-DosageCalculator-DosageCalculatorTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		42C368169010BA7801A6AEC0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-DosageCalculator-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5A4B5C388C16EEE6D82DB358 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5D5587403B4064AA4B5AEE56 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		782EF9CC5C0442D4919396D2 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -379,58 +731,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		3ACEE3883BDA7C2B89BAD95B /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		6F42EE4950BBC1488104EE8D /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator/Pods-DosageCalculator-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		7DA3236FFA2C4279086DC135 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator-DosageCalculatorTests/Pods-DosageCalculator-DosageCalculatorTests-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator-DosageCalculatorTests/Pods-DosageCalculator-DosageCalculatorTests-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator-DosageCalculatorTests/Pods-DosageCalculator-DosageCalculatorTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		85F503157C2AAB9AD572BDC8 /* [CP] Embed Pods Frameworks */ = {
+		98B8A9987D08DCC79BFA7483 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -445,28 +746,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DosageCalculator-DosageCalculatorTests/Pods-DosageCalculator-DosageCalculatorTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		A9F62BE32001351E6E06B27B /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-DosageCalculator-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -521,7 +800,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2CB05A93943A3F2D33C74AF4 /* Pods-DosageCalculator-DosageCalculatorTests.debug.xcconfig */;
+			baseConfigurationReference = 1D4265E7BC2FF29EEE272F7A /* Pods-DosageCalculator-DosageCalculatorTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -543,13 +822,12 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DosageCalculator.app/DosageCalculator";
-				OTHER_CPLUSPLUSFLAGS = "$(inherited) -DFOLLY_CFG_NO_COROUTINES=1";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B72956CAE053020622F7A802 /* Pods-DosageCalculator-DosageCalculatorTests.release.xcconfig */;
+			baseConfigurationReference = F49E4E950AE347E10BD826F8 /* Pods-DosageCalculator-DosageCalculatorTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -568,13 +846,12 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DosageCalculator.app/DosageCalculator";
-				OTHER_CPLUSPLUSFLAGS = "$(inherited) -DFOLLY_CFG_NO_COROUTINES=1";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C3DCA87E8ABD7BAEAA23843B /* Pods-DosageCalculator.debug.xcconfig */;
+			baseConfigurationReference = D6C613A622BA6A375BA07A57 /* Pods-DosageCalculator.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -584,13 +861,11 @@
 				DEVELOPMENT_TEAM = 33MVAGX8W3;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = DosageCalculator/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Dosage Calculator";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.4;
+				MARKETING_VERSION = 1.2;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -602,13 +877,12 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
-				OTHER_CPLUSPLUSFLAGS = "$(inherited) -DFOLLY_CFG_NO_COROUTINES=1";
 			};
 			name = Debug;
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FCE34DE9EEA852D334ECFDAF /* Pods-DosageCalculator.release.xcconfig */;
+			baseConfigurationReference = D3EA628AAEDA45CABF5DCEF4 /* Pods-DosageCalculator.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -617,13 +891,11 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 33MVAGX8W3;
 				INFOPLIST_FILE = DosageCalculator/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Dosage Calculator";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.4;
+				MARKETING_VERSION = 1.2;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -634,7 +906,6 @@
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
-				OTHER_CPLUSPLUSFLAGS = "$(inherited) -DFOLLY_CFG_NO_COROUTINES=1";
 			};
 			name = Release;
 		};
@@ -670,9 +941,17 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
@@ -691,15 +970,11 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
 				USE_HERMES = true;
-				OTHER_CPLUSPLUSFLAGS = "$(inherited) -DFOLLY_CFG_NO_COROUTINES=1";
 			};
 			name = Debug;
 		};
@@ -756,15 +1031,11 @@
 					"\"$(inherited)\"",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
-				OTHER_CPLUSPLUSFLAGS = "$(inherited) -DFOLLY_CFG_NO_COROUTINES=1";
 			};
 			name = Release;
 		};

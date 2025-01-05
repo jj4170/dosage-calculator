@@ -8,13 +8,9 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint .",
-    "clean:android": "cd android && ./gradlew clean && cd ..",
-    "release:android": "cd android/ && ./gradlew assembleRelease && cd ..",
-    "bundle:android": "cd android/ && ./gradlew bundleRelease && cd ..",
     "build:ios": "react-native bundle --entry-file='index.js' --bundle-output='./ios/main.jsbundle' --dev=false --platform='ios' --assets-dest='./ios'",
     "build:android": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle",
-    "release-build": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/build/intermediates/res/merged/release/  && cd android && gradlew assembleRelease && cd ..",
-    "postinstall": "npx patch-package  && npx pod-install"
+    "postinstall": "npx patch-package && npx pod-install"
   },
   "dependencies": {
     "@dhairyasharma/react-native-encryption": "^1.0.0",
@@ -58,8 +54,9 @@
     "react-native-screens": "^4.4.0",
     "react-native-shimmer": "^0.6.0",
     "react-native-shimmer-placeholder": "^2.0.9",
-    "react-native-ssl-pinning": "1.5.7",
+    "react-native-ssl-pinning": "^1.5.7",
     "react-native-svg": "^15.10.1",
+    "react-native-svg-transformer": "^1.5.0",
     "rn-country-picker": "^1.0.1"
   },
   "devDependencies": {

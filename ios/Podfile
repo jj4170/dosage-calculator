@@ -14,10 +14,6 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-def common_pods
-  pod 'RCT-Folly', :podspec => '../node_modules/react-native/third-party-podspecs/RCT-Folly.podspec'
-end
-
 target 'DosageCalculator' do
   config = use_native_modules!
 
