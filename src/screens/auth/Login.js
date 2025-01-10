@@ -76,18 +76,14 @@ export default function Login({route}) {
     });
   };
   const nextscreen = async () => {
-    if (__DEV__) {
-      clickSubmit();
-    } else {
-      NetInfo.fetch().then(async state => {
-        console.log(state);
-        if (state.isConnected == false) {
-          toast.danger({message: 'Check your Internet connection'});
-        } else {
-          clickSubmit();
-        }
-      });
-    }
+    console.log('isEmail', isEmail);
+    NetInfo.fetch().then(state => {
+      if (state.isConnected == false) {
+        toast.danger({message: 'Check your Internet connection'});
+      } else {
+        clickSubmit();
+      }
+    });
   };
   const clickSubmit = async bodyEncrypted => {
     if (isEmail == '' || isPassword == '') {

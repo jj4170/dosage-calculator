@@ -1264,7 +1264,7 @@ PODS:
     - React-Core
   - react-native-encryption (1.0.0):
     - React
-  - react-native-netinfo (9.3.0):
+  - react-native-netinfo (11.4.1):
     - React-Core
   - react-native-orientation-locker (1.7.0):
     - React-Core
@@ -2129,7 +2129,7 @@ SPEC CHECKSUMS:
   React-microtasksnativemodule: 7a69a9b8fded72ea3cf81923ecf75cad5558ed26
   react-native-aes: c75c46aa744bef7c2415fdf7f5b2dcb75ca4364d
   react-native-encryption: f63c4d8ebc95025200852d980a49a5b42b85c1df
-  react-native-netinfo: 129bd99f607a2dc5bb096168f3e5c150fd1f1c95
+  react-native-netinfo: f0a9899081c185db1de5bb2fdc1c88c202a059ac
   react-native-orientation-locker: 5819fd23ca89cbac0d736fb4314745f62716d517
   react-native-safe-area-context: d6406c2adbd41b2e09ab1c386781dc1c81a90919
   react-native-shimmer: 2fdba9953215a29106febc9d147caa31a0080a8a
@@ -2173,8 +2173,8 @@ SPEC CHECKSUMS:
   SocketRocket: d4aabe649be1e368d1318fdf28a022d714d65748
   TOCropViewController: 80b8985ad794298fb69d3341de183f33d1853654
   TrustKit: 403e8d2cfbff2abfc37cd41acc558dab8ec78e59
-  Yoga: 96872ee462cfc43866ad013c8160d4ff6b85709b
+  Yoga: c5b0e913b5b3b4cde588227c1402e747797061f3
 
 PODFILE CHECKSUM: c2cb5f54da49c59ee336c93767c87beb6257ea1a
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.16.2
