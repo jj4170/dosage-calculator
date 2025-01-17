@@ -1,4 +1,4 @@
-package com.sunpharma.detdostdec23;
+package com.sunpharma.dosecalculatordec22;
 
 import android.app.Application
 import com.facebook.react.PackageList

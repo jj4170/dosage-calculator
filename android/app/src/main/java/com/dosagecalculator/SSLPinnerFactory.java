@@ -1,4 +1,4 @@
-package com.sunpharma.detdostdec23;
+package com.sunpharma.dosecalculatordec22;
 
 import com.facebook.react.modules.network.OkHttpClientFactory;
 import com.facebook.react.modules.network.OkHttpClientProvider;
